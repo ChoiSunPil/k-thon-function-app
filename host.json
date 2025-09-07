@@ -1,0 +1,8 @@
+{
+  "version": "2.0",
+  "languageWorkers": {
+    "python": {
+      "defaultExecutablePath": "/Users/choisunpil/Desktop/development/2025/k-thon-function-app/.venv/bin/python3"
+    }
+  }
+}
